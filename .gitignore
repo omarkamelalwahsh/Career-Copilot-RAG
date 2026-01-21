@@ -2,3 +2,4 @@
 # Validated large files
 hits.txt
 *.log
+node_modules/
